@@ -6,7 +6,7 @@ public class App {
     public static void main(String[] args) {
         BeanFactory container=new ClassPathXmlApplicationContext("config.xml");
         Mentor mentor= (Mentor) container.getBean("fullTimeMentor");
-        Mentor mentor2= (Mentor) container.getBean("partTimeMentor",Mentor.class);
+        Mentor mentor2= container.getBean("partTimeMentor",Mentor.class);
         mentor.createAccount();
         mentor2.createAccount();
     }
