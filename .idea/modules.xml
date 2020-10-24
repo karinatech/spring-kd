@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-00-LoosselyCoupled/Spring-00-LoosselyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-LoosselyCoupled/Spring-00-LoosselyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" filepath="$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" filepath="$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spting5-Qualifier/Spting5-Qualifier.iml" filepath="$PROJECT_DIR$/Spting5-Qualifier/Spting5-Qualifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-kd.iml" filepath="$PROJECT_DIR$/.idea/spring-kd.iml" />
     </modules>
   </component>
