@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Spring-01-SpringContainer" />
+        <module name="Spring06-JavaCodeConfiguration" />
         <module name="Spring05-autowired" />
         <module name="Spting5-Qualifier" />
         <module name="Spring05-Value" />
@@ -14,8 +15,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring-01-SpringContainer" target="1.8" />
-      <module name="Spring05-autowired" target="1.5" />
+      <module name="Spring05-autowired" target="6" />
       <module name="Spring05-Value" target="6" />
+      <module name="Spring06-JavaCodeConfiguration" target="6" />
       <module name="Spting5-Qualifier" target="1.5" />
     </bytecodeTargetLevel>
   </component>
