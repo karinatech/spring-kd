@@ -29,6 +29,8 @@ public class StudentController {
         nums.add(6);
         nums.add(7);
         nums.add(8);
+        nums.add(456);
+        nums.add(3678);
         model.addAttribute("numbers",nums);
 
         LocalDate bday = LocalDate.now().minusYears(28).minusDays(4);
