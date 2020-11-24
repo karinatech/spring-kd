@@ -28,7 +28,7 @@ public class EmployeeController {
     @PostMapping("/confirmation")
     public String confirmation(@ModelAttribute("employee") Employee employee,Model model){
 model.addAttribute("employeeList", Arrays.asList(employee));
-int birthYear= LocalDate.parse(employee.getBirthday()).getYear();
+int birthYear=LocalDate.parse(employee.getBirthday()).getYear();
 model.addAttribute("age", LocalDate.now().getYear()-birthYear);
         return "employee/confirmation";
     }

@@ -6,19 +6,40 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Spring-06-PostConstruct-PreDestroy" />
+        <module name="Spring-08-Springboot-MVC-Controller" />
+        <module name="SpringBoot-08-RegistrationForm-Lab" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring06-JavaCodeConfiguration" />
-        <module name="Spring05-autowired" />
+        <module name="Spring-07-SpringBoot-Demo" />
+        <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" />
         <module name="Spting5-Qualifier" />
         <module name="Spring05-Value" />
+        <module name="Spring05-autowired" />
+        <module name="Spring-08-SpringBoot-Form" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring-01-SpringContainer" target="1.8" />
+      <module name="Spring-06-PostConstruct-PreDestroy" target="1.5" />
+      <module name="Spring-07-SpringBoot-Demo" target="11" />
+      <module name="Spring-08-SpringBoot-Form" target="11" />
+      <module name="Spring-08-Springboot-MVC-Controller" target="11" />
+      <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" target="11" />
       <module name="Spring05-autowired" target="6" />
       <module name="Spring05-Value" target="6" />
       <module name="Spring06-JavaCodeConfiguration" target="6" />
+      <module name="SpringBoot-08-RegistrationForm-Lab" target="11" />
       <module name="Spting5-Qualifier" target="1.5" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
+      <module name="Spring-08-SpringBoot-Form" options="-parameters" />
+      <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" options="-parameters" />
+      <module name="Spring-08-Springboot-MVC-Controller" options="-parameters" />
+      <module name="SpringBoot-08-RegistrationForm-Lab" options="-parameters" />
+    </option>
   </component>
 </project>

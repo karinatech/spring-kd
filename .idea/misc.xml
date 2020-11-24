@@ -8,6 +8,12 @@
         <option value="$PROJECT_DIR$/Spting5-Qualifier/pom.xml" />
         <option value="$PROJECT_DIR$/Spring05-Value/pom.xml" />
         <option value="$PROJECT_DIR$/Spring06-JavaCodeConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-06-PostConstruct-PreDestroy/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-07-SpringBoot-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08-Springboot-MVC-Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08-SpringBootMVC-Model_View-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08-SpringBoot-Form/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/pom.xml" />
       </list>
     </option>
   </component>
