@@ -5,6 +5,11 @@
     <file url="file://$PROJECT_DIR$/Spring-08-SpringBoot-Form/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-08-SpringBootMVC-Model_View-Thymeleaf/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-08-Springboot-MVC-Controller/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-09-ORM-OneToMany/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring-09-ORM-TableCreatioon/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/src/main/java" charset="UTF-8" />
   </component>
 </project>

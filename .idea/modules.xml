@@ -10,11 +10,16 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBoot-Form/Spring-08-SpringBoot-Form.iml" filepath="$PROJECT_DIR$/Spring-08-SpringBoot-Form/Spring-08-SpringBoot-Form.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBootMVC-Model_View-Thymeleaf/Spring-08-SpringBootMVC-Model_View-Thymeleaf.iml" filepath="$PROJECT_DIR$/Spring-08-SpringBootMVC-Model_View-Thymeleaf/Spring-08-SpringBootMVC-Model_View-Thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-08-Springboot-MVC-Controller/Spring-08-Springboot-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-08-Springboot-MVC-Controller/Spring-08-Springboot-MVC-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/Spring-09-ORM-Mapping-ManyToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/Spring-09-ORM-Mapping-ManyToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" filepath="$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" filepath="$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" filepath="$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/SpringBoot-08-RegistrationForm-Lab.iml" filepath="$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/SpringBoot-08-RegistrationForm-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/SpringBoot-09-ManyToMany-Mapping.iml" filepath="$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/SpringBoot-09-ManyToMany-Mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/SpringBoot-09-ORMMapping-oneTo-One.iml" filepath="$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/SpringBoot-09-ORMMapping-oneTo-One.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spting5-Qualifier/Spting5-Qualifier.iml" filepath="$PROJECT_DIR$/Spting5-Qualifier/Spting5-Qualifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-TableCreatioon/orm.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-TableCreatioon/orm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-kd.iml" filepath="$PROJECT_DIR$/.idea/spring-kd.iml" />
     </modules>
   </component>

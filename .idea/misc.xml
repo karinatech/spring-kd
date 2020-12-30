@@ -14,6 +14,11 @@
         <option value="$PROJECT_DIR$/Spring-08-SpringBootMVC-Model_View-Thymeleaf/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-08-SpringBoot-Form/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-09-ORM-TableCreatioon/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-09-ORM-OneToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/pom.xml" />
       </list>
     </option>
   </component>
