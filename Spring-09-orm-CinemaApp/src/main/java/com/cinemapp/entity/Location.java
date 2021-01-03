@@ -5,6 +5,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.springframework.validation.beanvalidation.SpringValidatorAdapter;
 
+import javax.persistence.Column;
 import javax.persistence.Entity;
 import java.math.BigDecimal;
 
@@ -18,9 +19,12 @@ public class Location extends BaseEntity{
     private String country;
     private BigDecimal latitude;
     private BigDecimal longitude;
+    @Column(name = "postal_code")
     private String postalCode;
     private String address;
     private String city;
+    private String state;
+
 
     public Location(String name, String country, BigDecimal latitude, BigDecimal longitude, String postalCode, String address, String city) {
         this.name = name;
