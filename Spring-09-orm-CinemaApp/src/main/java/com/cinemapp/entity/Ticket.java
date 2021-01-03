@@ -3,7 +3,6 @@ package com.cinemapp.entity;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import net.bytebuddy.description.type.TypeList;
 
 import javax.persistence.*;
 import java.time.LocalDateTime;
@@ -27,5 +26,9 @@ private MovieCinema movieCinema;
     @JoinColumn(name = "user_account_id")
     private User user;
 
-
+    public Ticket(Integer seatNumber, Integer rowNumber, LocalDateTime dateTime) {
+        this.seatNumber = seatNumber;
+        this.rowNumber = rowNumber;
+        this.dateTime = dateTime;
+    }
 }

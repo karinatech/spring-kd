@@ -32,14 +32,14 @@ public class Movie extends BaseEntity{
     @Column(columnDefinition = "text")
     private String summary;
 
-    public Movie(String name, BigDecimal price, Type type, Statee state, LocalDate releaseDate, Integer duration, String summary) {
+    public Movie(String name, LocalDate releaseDate,Integer duration, Type type, Statee state, BigDecimal price ) {
         this.name = name;
         this.price = price;
         this.type = type;
         this.state = state;
         this.releaseDate = releaseDate;
         this.duration = duration;
-        this.summary = summary;
+
     }
     @ManyToMany
             @JoinTable(name = "movie_genre_rel", joinColumns = @JoinColumn(name = "movie_id"),inverseJoinColumns = @JoinColumn(name = "genre_id"))
