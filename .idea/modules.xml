@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-08-Springboot-MVC-Controller/Spring-08-Springboot-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-08-Springboot-MVC-Controller/Spring-08-Springboot-MVC-Controller.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/Spring-09-ORM-Mapping-ManyToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/Spring-09-ORM-Mapping-ManyToOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-orm-CinemaApp/Spring-09-orm-CinemaApp.iml" filepath="$PROJECT_DIR$/Spring-09-orm-CinemaApp/Spring-09-orm-CinemaApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" filepath="$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" filepath="$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" filepath="$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" />
