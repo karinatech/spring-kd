@@ -22,8 +22,7 @@ List<Employee>findBySalaryEquals(Integer salary);
 List<Employee>findByHireDateBetween(LocalDate startDate, LocalDate date);
 List<Employee>findBySalaryGreaterThanEqualOrderBySalaryDesc(Integer salary);
 List<Employee>findDistinctTop3BySalaryLessThan(Integer salary);
-List<Employee>findByEmailFalse();
-List<Employee>findByEmailIsNull();
+
 
 
 

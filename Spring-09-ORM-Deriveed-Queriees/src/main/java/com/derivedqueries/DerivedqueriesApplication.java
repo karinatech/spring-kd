@@ -41,7 +41,6 @@ public class DerivedqueriesApplication {
 	System.out.println("______Find all eemployes findBySalaryEquals "+employeeRep.findBySalaryEquals(126588));
 	System.out.println("______Find all eemployes findBySalaryGreaterThanEqualOrderBySalaryDesc "+employeeRep.findBySalaryGreaterThanEqualOrderBySalaryDesc(126588));
 	System.out.println("______Find all eemployes findDistinctTop3BySalaryLessThan "+employeeRep.findDistinctTop3BySalaryLessThan(126588));
-	System.out.println("______Find all eemployes findByEmailIsNull "+employeeRep.findByEmailIsNull());
 
 
 
