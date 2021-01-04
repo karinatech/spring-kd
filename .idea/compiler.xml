@@ -21,6 +21,7 @@
         <module name="SpringBoot-09-ORMMapping-oneTo-One" />
         <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" />
         <module name="Spring-09-ORM-Mapping-OneToOne" />
+        <module name="Spring-09-ORM-Deriveed-Queriees" />
         <module name="SpringBoot-09-ManyToMany-Mapping" />
         <module name="Spring-08-SpringBoot-Form" />
         <module name="Spring-09-orm-CinemaApp" />
@@ -35,6 +36,7 @@
       <module name="Spring-08-Springboot-MVC-Controller" target="11" />
       <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" target="11" />
       <module name="Spring-09-orm-CinemaApp" target="11" />
+      <module name="Spring-09-ORM-Deriveed-Queriees" target="11" />
       <module name="Spring-09-ORM-Mapping-ManyToOne" target="11" />
       <module name="Spring-09-ORM-Mapping-OneToOne" target="11" />
       <module name="Spring-09-ORM-OneToMany" target="11" />
@@ -54,6 +56,7 @@
       <module name="Spring-08-SpringBoot-Form" options="-parameters" />
       <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" options="-parameters" />
       <module name="Spring-08-Springboot-MVC-Controller" options="-parameters" />
+      <module name="Spring-09-ORM-Deriveed-Queriees" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-ManyToOne" options="-parameters" />
       <module name="Spring-09-ORM-Mapping-OneToOne" options="-parameters" />
       <module name="Spring-09-ORM-OneToMany" options="-parameters" />

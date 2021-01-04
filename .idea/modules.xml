@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBoot-Form/Spring-08-SpringBoot-Form.iml" filepath="$PROJECT_DIR$/Spring-08-SpringBoot-Form/Spring-08-SpringBoot-Form.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-08-SpringBootMVC-Model_View-Thymeleaf/Spring-08-SpringBootMVC-Model_View-Thymeleaf.iml" filepath="$PROJECT_DIR$/Spring-08-SpringBootMVC-Model_View-Thymeleaf/Spring-08-SpringBootMVC-Model_View-Thymeleaf.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-08-Springboot-MVC-Controller/Spring-08-Springboot-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-08-Springboot-MVC-Controller/Spring-08-Springboot-MVC-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Deriveed-Queriees/Spring-09-ORM-Deriveed-Queriees.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Deriveed-Queriees/Spring-09-ORM-Deriveed-Queriees.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/Spring-09-ORM-Mapping-ManyToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/Spring-09-ORM-Mapping-ManyToOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-orm-CinemaApp/Spring-09-orm-CinemaApp.iml" filepath="$PROJECT_DIR$/Spring-09-orm-CinemaApp/Spring-09-orm-CinemaApp.iml" />
