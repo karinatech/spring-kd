@@ -1,4 +1,4 @@
-package com.repo;
+package com.orm.repo;
 
 import com.orm.entity.Department;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -66,7 +66,7 @@ EmployeeRepo employeeRepo;
         e4.setRegion(r4);
         e5.setRegion(r5);
         employeeRepo.saveAll(employees);
-//        employeeRepo.deleteById(3);
+        employeeRepo.deleteById(3);
 
     }
 }
