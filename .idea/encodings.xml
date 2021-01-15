@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/CinemaApp-Practice1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-07-SpringBoot-Demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-08-SpringBoot-Form/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-08-SpringBootMVC-Model_View-Thymeleaf/src/main/java" charset="UTF-8" />
@@ -11,6 +12,7 @@
     <file url="file://$PROJECT_DIR$/Spring-09-ORM-OneToMany/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-09-ORM-TableCreatioon/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-09-orm-CinemaApp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring10-Securiity-DefaulConfiguration/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/src/main/java" charset="UTF-8" />

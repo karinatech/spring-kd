@@ -16,8 +16,10 @@
         <module name="Spting5-Qualifier" />
         <module name="Spring05-Value" />
         <module name="Spring-09-ORM-OneToMany" />
+        <module name="Spring10-Securiity-DefaulConfiguration" />
         <module name="orm" />
         <module name="Spring05-autowired" />
+        <module name="CinemaApp-Practice1" />
         <module name="Spring-01-SpringContainer" />
         <module name="SpringBoot-09-ORMMapping-oneTo-One" />
         <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" />
@@ -30,6 +32,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="CinemaApp-Practice1" target="11" />
       <module name="orm" target="11" />
       <module name="Spring-01-SpringContainer" target="1.8" />
       <module name="Spring-06-PostConstruct-PreDestroy" target="1.5" />
@@ -48,6 +51,7 @@
       <module name="Spring05-autowired" target="6" />
       <module name="Spring05-Value" target="6" />
       <module name="Spring06-JavaCodeConfiguration" target="6" />
+      <module name="Spring10-Securiity-DefaulConfiguration" target="11" />
       <module name="SpringBoot-08-RegistrationForm-Lab" target="11" />
       <module name="SpringBoot-09-ManyToMany-Mapping" target="11" />
       <module name="SpringBoot-09-ORMMapping-oneTo-One" target="11" />
@@ -56,6 +60,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="CinemaApp-Practice1" options="-parameters" />
       <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="Spring-08-SpringBoot-Form" options="-parameters" />
       <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" options="-parameters" />
@@ -68,6 +73,7 @@
       <module name="Spring-09-ORM-OneToMany" options="-parameters" />
       <module name="Spring-09-ORM-TableCreatioon" options="-parameters" />
       <module name="Spring-09-orm-CinemaApp" options="-parameters" />
+      <module name="Spring10-Securiity-DefaulConfiguration" options="-parameters" />
       <module name="SpringBoot-08-RegistrationForm-Lab" options="-parameters" />
       <module name="SpringBoot-09-ManyToMany-Mapping" options="-parameters" />
       <module name="SpringBoot-09-ORMMapping-oneTo-One" options="-parameters" />

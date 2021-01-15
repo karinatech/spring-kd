@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CinemaApp-Practice1/CinemaApp-Practice1.iml" filepath="$PROJECT_DIR$/CinemaApp-Practice1/CinemaApp-Practice1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-LoosselyCoupled/Spring-00-LoosselyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-LoosselyCoupled/Spring-00-LoosselyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />
@@ -18,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" filepath="$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" filepath="$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" filepath="$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10-Securiity-DefaulConfiguration/Spring10-Securiity-DefaulConfiguration.iml" filepath="$PROJECT_DIR$/Spring10-Securiity-DefaulConfiguration/Spring10-Securiity-DefaulConfiguration.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/SpringBoot-08-RegistrationForm-Lab.iml" filepath="$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/SpringBoot-08-RegistrationForm-Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/SpringBoot-09-ManyToMany-Mapping.iml" filepath="$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/SpringBoot-09-ManyToMany-Mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/SpringBoot-09-ORMMapping-oneTo-One.iml" filepath="$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/SpringBoot-09-ORMMapping-oneTo-One.iml" />
