@@ -6,28 +6,32 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring-06-PostConstruct-PreDestroy" />
-        <module name="Spring-08-Springboot-MVC-Controller" />
         <module name="SpringBoot-08-RegistrationForm-Lab" />
-        <module name="Spring06-JavaCodeConfiguration" />
+        <module name="Spring10-Security-HTTPBasic-AuthRolebase" />
         <module name="Spring-07-SpringBoot-Demo" />
         <module name="Spring-09-ORM-Mapping-JPQL-NamedQueries" />
         <module name="Spring-09-ORM-Mapping-ManyToOne" />
         <module name="Spting5-Qualifier" />
+        <module name="Spring-01-SpringContainer" />
+        <module name="Spring10-Security-CustomConfiguration" />
+        <module name="Spring-08-SpringBoot-Form" />
+        <module name="Spring-06-PostConstruct-PreDestroy" />
+        <module name="Spring-08-Springboot-MVC-Controller" />
+        <module name="Spring06-JavaCodeConfiguration" />
         <module name="Spring05-Value" />
         <module name="Spring-09-ORM-OneToMany" />
         <module name="Spring10-Securiity-DefaulConfiguration" />
+        <module name="Spring10-SecurityCustomConfig" />
         <module name="orm" />
         <module name="Spring05-autowired" />
         <module name="CinemaApp-Practice1" />
-        <module name="Spring-01-SpringContainer" />
         <module name="SpringBoot-09-ORMMapping-oneTo-One" />
         <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" />
         <module name="Spring-09-ORM-Mapping-OneToOne" />
         <module name="Spring-09-ORM-Deriveed-Queriees" />
+        <module name="Spring10-Security-httpBasicDb" />
         <module name="SpringBoot-09-ManyToMany-Mapping" />
         <module name="Spring-09-ORM-Mapping-JPQL-NameQueeriies" />
-        <module name="Spring-08-SpringBoot-Form" />
         <module name="Spring-09-orm-CinemaApp" />
       </profile>
     </annotationProcessing>
@@ -52,6 +56,10 @@
       <module name="Spring05-Value" target="6" />
       <module name="Spring06-JavaCodeConfiguration" target="6" />
       <module name="Spring10-Securiity-DefaulConfiguration" target="11" />
+      <module name="Spring10-Security-CustomConfiguration" target="11" />
+      <module name="Spring10-Security-HTTPBasic-AuthRolebase" target="11" />
+      <module name="Spring10-Security-httpBasicDb" target="11" />
+      <module name="Spring10-SecurityCustomConfig" target="11" />
       <module name="SpringBoot-08-RegistrationForm-Lab" target="11" />
       <module name="SpringBoot-09-ManyToMany-Mapping" target="11" />
       <module name="SpringBoot-09-ORMMapping-oneTo-One" target="11" />
@@ -74,6 +82,10 @@
       <module name="Spring-09-ORM-TableCreatioon" options="-parameters" />
       <module name="Spring-09-orm-CinemaApp" options="-parameters" />
       <module name="Spring10-Securiity-DefaulConfiguration" options="-parameters" />
+      <module name="Spring10-Security-CustomConfiguration" options="-parameters" />
+      <module name="Spring10-Security-HTTPBasic-AuthRolebase" options="-parameters" />
+      <module name="Spring10-Security-httpBasicDb" options="-parameters" />
+      <module name="Spring10-SecurityCustomConfig" options="-parameters" />
       <module name="SpringBoot-08-RegistrationForm-Lab" options="-parameters" />
       <module name="SpringBoot-09-ManyToMany-Mapping" options="-parameters" />
       <module name="SpringBoot-09-ORMMapping-oneTo-One" options="-parameters" />

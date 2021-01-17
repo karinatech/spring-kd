@@ -24,6 +24,9 @@
         <option value="$PROJECT_DIR$/Spring-09-ORM-Mapping-JPQL-NamedQueries/pom.xml" />
         <option value="$PROJECT_DIR$/CinemaApp-Practice1/pom.xml" />
         <option value="$PROJECT_DIR$/Spring10-Securiity-DefaulConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring10-SecurityCustomConfig/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring10-Security-HTTPBasic-AuthRolebase/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring10-Security-httpBasicDb/pom.xml" />
       </list>
     </option>
   </component>

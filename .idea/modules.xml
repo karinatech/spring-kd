@@ -20,6 +20,9 @@
       <module fileurl="file://$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" filepath="$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" filepath="$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10-Securiity-DefaulConfiguration/Spring10-Securiity-DefaulConfiguration.iml" filepath="$PROJECT_DIR$/Spring10-Securiity-DefaulConfiguration/Spring10-Securiity-DefaulConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10-Security-HTTPBasic-AuthRolebase/Spring10-Security-HTTPBasic-AuthRolebase.iml" filepath="$PROJECT_DIR$/Spring10-Security-HTTPBasic-AuthRolebase/Spring10-Security-HTTPBasic-AuthRolebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10-Security-httpBasicDb/Spring10-Security-httpBasicDb.iml" filepath="$PROJECT_DIR$/Spring10-Security-httpBasicDb/Spring10-Security-httpBasicDb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10-SecurityCustomConfig/Spring10-SecurityCustomConfig.iml" filepath="$PROJECT_DIR$/Spring10-SecurityCustomConfig/Spring10-SecurityCustomConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/SpringBoot-08-RegistrationForm-Lab.iml" filepath="$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/SpringBoot-08-RegistrationForm-Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/SpringBoot-09-ManyToMany-Mapping.iml" filepath="$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/SpringBoot-09-ManyToMany-Mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/SpringBoot-09-ORMMapping-oneTo-One.iml" filepath="$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/SpringBoot-09-ORMMapping-oneTo-One.iml" />
