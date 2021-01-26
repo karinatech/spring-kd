@@ -18,6 +18,7 @@
         <module name="Spring-06-PostConstruct-PreDestroy" />
         <module name="Spring-08-Springboot-MVC-Controller" />
         <module name="Spring06-JavaCodeConfiguration" />
+        <module name="Spring-10-Security-FormAuth" />
         <module name="Spring05-Value" />
         <module name="Spring-09-ORM-OneToMany" />
         <module name="Spring10-Securiity-DefaulConfiguration" />
@@ -27,12 +28,14 @@
         <module name="CinemaApp-Practice1" />
         <module name="SpringBoot-09-ORMMapping-oneTo-One" />
         <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" />
+        <module name="Spring10-Security-Practice1" />
         <module name="Spring-09-ORM-Mapping-OneToOne" />
         <module name="Spring-09-ORM-Deriveed-Queriees" />
         <module name="Spring10-Security-httpBasicDb" />
         <module name="SpringBoot-09-ManyToMany-Mapping" />
         <module name="Spring-09-ORM-Mapping-JPQL-NameQueeriies" />
         <module name="Spring-09-orm-CinemaApp" />
+        <module name="Spring-11-REST-HTTPverbs-Legacy" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -52,6 +55,8 @@
       <module name="Spring-09-ORM-Mapping-OneToOne" target="11" />
       <module name="Spring-09-ORM-OneToMany" target="11" />
       <module name="Spring-09-ORM-TableCreatioon" target="11" />
+      <module name="Spring-10-Security-FormAuth" target="11" />
+      <module name="Spring-11-REST-HTTPverbs-Legacy" target="11" />
       <module name="Spring05-autowired" target="6" />
       <module name="Spring05-Value" target="6" />
       <module name="Spring06-JavaCodeConfiguration" target="6" />
@@ -59,6 +64,7 @@
       <module name="Spring10-Security-CustomConfiguration" target="11" />
       <module name="Spring10-Security-HTTPBasic-AuthRolebase" target="11" />
       <module name="Spring10-Security-httpBasicDb" target="11" />
+      <module name="Spring10-Security-Practice1" target="11" />
       <module name="Spring10-SecurityCustomConfig" target="11" />
       <module name="SpringBoot-08-RegistrationForm-Lab" target="11" />
       <module name="SpringBoot-09-ManyToMany-Mapping" target="11" />
@@ -81,9 +87,12 @@
       <module name="Spring-09-ORM-OneToMany" options="-parameters" />
       <module name="Spring-09-ORM-TableCreatioon" options="-parameters" />
       <module name="Spring-09-orm-CinemaApp" options="-parameters" />
+      <module name="Spring-10-Security-FormAuth" options="-parameters" />
+      <module name="Spring-11-REST-HTTPverbs-Legacy" options="-parameters" />
       <module name="Spring10-Securiity-DefaulConfiguration" options="-parameters" />
       <module name="Spring10-Security-CustomConfiguration" options="-parameters" />
       <module name="Spring10-Security-HTTPBasic-AuthRolebase" options="-parameters" />
+      <module name="Spring10-Security-Practice1" options="-parameters" />
       <module name="Spring10-Security-httpBasicDb" options="-parameters" />
       <module name="Spring10-SecurityCustomConfig" options="-parameters" />
       <module name="SpringBoot-08-RegistrationForm-Lab" options="-parameters" />

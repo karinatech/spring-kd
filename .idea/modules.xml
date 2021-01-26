@@ -16,11 +16,14 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/Spring-09-ORM-Mapping-ManyToOne.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-Mapping-ManyToOne/Spring-09-ORM-Mapping-ManyToOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" filepath="$PROJECT_DIR$/Spring-09-ORM-OneToMany/Spring-09-ORM-OneToMany.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-09-orm-CinemaApp/Spring-09-orm-CinemaApp.iml" filepath="$PROJECT_DIR$/Spring-09-orm-CinemaApp/Spring-09-orm-CinemaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-10-Security-FormAuth/Spring-10-Security-FormAuth.iml" filepath="$PROJECT_DIR$/Spring-10-Security-FormAuth/Spring-10-Security-FormAuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-REST-HTTPverbs-Legacy/Spring-11-REST-HTTPverbs-Legacy.iml" filepath="$PROJECT_DIR$/Spring-11-REST-HTTPverbs-Legacy/Spring-11-REST-HTTPverbs-Legacy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" filepath="$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" filepath="$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" filepath="$PROJECT_DIR$/Spring06-JavaCodeConfiguration/Spring06-JavaCodeConfiguration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10-Securiity-DefaulConfiguration/Spring10-Securiity-DefaulConfiguration.iml" filepath="$PROJECT_DIR$/Spring10-Securiity-DefaulConfiguration/Spring10-Securiity-DefaulConfiguration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10-Security-HTTPBasic-AuthRolebase/Spring10-Security-HTTPBasic-AuthRolebase.iml" filepath="$PROJECT_DIR$/Spring10-Security-HTTPBasic-AuthRolebase/Spring10-Security-HTTPBasic-AuthRolebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring10-Security-Practice1/Spring10-Security-Practice1.iml" filepath="$PROJECT_DIR$/Spring10-Security-Practice1/Spring10-Security-Practice1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10-Security-httpBasicDb/Spring10-Security-httpBasicDb.iml" filepath="$PROJECT_DIR$/Spring10-Security-httpBasicDb/Spring10-Security-httpBasicDb.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring10-SecurityCustomConfig/Spring10-SecurityCustomConfig.iml" filepath="$PROJECT_DIR$/Spring10-SecurityCustomConfig/Spring10-SecurityCustomConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/SpringBoot-08-RegistrationForm-Lab.iml" filepath="$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/SpringBoot-08-RegistrationForm-Lab.iml" />
