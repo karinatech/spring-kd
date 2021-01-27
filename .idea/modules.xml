@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-09-orm-CinemaApp/Spring-09-orm-CinemaApp.iml" filepath="$PROJECT_DIR$/Spring-09-orm-CinemaApp/Spring-09-orm-CinemaApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-10-Security-FormAuth/Spring-10-Security-FormAuth.iml" filepath="$PROJECT_DIR$/Spring-10-Security-FormAuth/Spring-10-Security-FormAuth.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-11-REST-HTTPverbs-Legacy/Spring-11-REST-HTTPverbs-Legacy.iml" filepath="$PROJECT_DIR$/Spring-11-REST-HTTPverbs-Legacy/Spring-11-REST-HTTPverbs-Legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-Jackson/Spring-11-Rest-Jackson.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-Jackson/Spring-11-Rest-Jackson.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-ResponceEntity/Spring-11-Rest-ResponceEntity.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-ResponceEntity/Spring-11-Rest-ResponceEntity.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" filepath="$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" filepath="$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" />
