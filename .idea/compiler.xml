@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringBoot-08-RegistrationForm-Lab" />
+        <module name="Spring-11-Rest-ResponceEntity" />
         <module name="Spring10-Security-HTTPBasic-AuthRolebase" />
         <module name="Spring-07-SpringBoot-Demo" />
         <module name="Spring-09-ORM-Mapping-JPQL-NamedQueries" />
@@ -57,6 +58,7 @@
       <module name="Spring-09-ORM-TableCreatioon" target="11" />
       <module name="Spring-10-Security-FormAuth" target="11" />
       <module name="Spring-11-REST-HTTPverbs-Legacy" target="11" />
+      <module name="Spring-11-Rest-ResponceEntity" target="11" />
       <module name="Spring05-autowired" target="6" />
       <module name="Spring05-Value" target="6" />
       <module name="Spring06-JavaCodeConfiguration" target="6" />
@@ -89,6 +91,7 @@
       <module name="Spring-09-orm-CinemaApp" options="-parameters" />
       <module name="Spring-10-Security-FormAuth" options="-parameters" />
       <module name="Spring-11-REST-HTTPverbs-Legacy" options="-parameters" />
+      <module name="Spring-11-Rest-ResponceEntity" options="-parameters" />
       <module name="Spring10-Securiity-DefaulConfiguration" options="-parameters" />
       <module name="Spring10-Security-CustomConfiguration" options="-parameters" />
       <module name="Spring10-Security-HTTPBasic-AuthRolebase" options="-parameters" />
