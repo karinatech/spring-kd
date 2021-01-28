@@ -30,6 +30,10 @@
         <option value="$PROJECT_DIR$/Spring10-Security-Practice1/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-10-Security-FormAuth/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-11-REST-HTTPverbs-Legacy/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-11-Rest-ResponceEntity/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-11-Rest-Jackson/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-11-Rest-Template/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-11-Rest-Lab/pom.xml" />
       </list>
     </option>
   </component>
