@@ -27,7 +27,7 @@ public class ProductController {
         return ResponseEntity.ok(productService.getProduct(id));
     }
 
-    @GetMapping
+    @GetMapping(value="")
     public ResponseEntity<List<Product>>getProducts(){
         HttpHeaders responceHeaders=new HttpHeaders();
         responceHeaders.set("Version","KariV1");
@@ -47,7 +47,7 @@ public class ProductController {
         return new ResponseEntity<>(list,responseHeaders,HttpStatus.OK);
     }
 
-    @PostMapping
+    @PostMapping(value="")
     public ResponseEntity<List<Product>>createProduct(@RequestBody Product product){
         List<Product>set = productService.createProduct(product);
 
@@ -64,7 +64,7 @@ public class ProductController {
 
         return new ResponseEntity<>(list,map,HttpStatus.OK);
     }
-    @GetMapping("/reead")
+    @GetMapping("/read")
 public ResponseEntity<ResponseWrapper>readAllProodducts(){
         return ResponseEntity.ok(new ResponseWrapper("Products successfully retrieved",productService.getProducts()));
 

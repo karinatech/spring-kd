@@ -20,14 +20,17 @@ public class ProductController {
     public Product getProduct(@PathVariable("id") Long id){
         return productService.getProduct(id);
     }
+
     @GetMapping
     public List<Product>getProducts(){
         return productService.getProducts();
     }
+
     @DeleteMapping(value = "/{id}")
     public List<Product>deleteProduct(@PathVariable("id") Long id){
         return productService.delete(id);
     }
+
     @PostMapping
     public List<Product>createProduct(@RequestBody Product product){
         return productService.createProduct(product);

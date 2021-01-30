@@ -20,17 +20,18 @@ public class HomeController {
     public HomeController(RestTemplate restTemplate) {
         this.restTemplate = restTemplate;
     }
+
     @GetMapping
     public User[] readAllUsers(){
-
         ResponseEntity<User[]>responseEntity=restTemplate.getForEntity(URI,User[].class);
         return responseEntity.getBody();
 
     }
     @GetMapping(value = "/{id}")
-    public Object readUser(@PathVariable("id") Integer id){
+    public User readUser(@PathVariable("id") Integer id){
         String URL=URI+"/{id}";
-        return restTemplate.getForObject(URL,Object.class,id);
+        User user = restTemplate.getForObject(URL,User.class,id);
+        return user;
     }
 
     @GetMapping("test")
