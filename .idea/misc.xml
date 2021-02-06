@@ -34,6 +34,10 @@
         <option value="$PROJECT_DIR$/Spring-11-Rest-Jackson/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-11-Rest-Template/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-11-Rest-Lab/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-11-Rest-OpenAPI3.0/pom.xml" />
+        <option value="$PROJECT_DIR$/KoshikPractice_Security/pom.xml" />
+        <option value="$PROJECT_DIR$/Koshik-Sql_practice/pom.xml" />
+        <option value="$PROJECT_DIR$/JWT/pom.xml" />
       </list>
     </option>
   </component>

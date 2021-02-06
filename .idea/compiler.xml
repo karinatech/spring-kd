@@ -13,15 +13,19 @@
         <module name="Spring-09-ORM-Mapping-JPQL-NamedQueries" />
         <module name="Spring-09-ORM-Mapping-ManyToOne" />
         <module name="Spting5-Qualifier" />
+        <module name="demo" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-11-Rest-Jackson" />
         <module name="Spring-11-Rest-Lab" />
         <module name="Spring10-Security-CustomConfiguration" />
         <module name="Spring-08-SpringBoot-Form" />
+        <module name="Spring-11-Rest-OpenAPI3.0" />
         <module name="Spring-06-PostConstruct-PreDestroy" />
         <module name="Spring-08-Springboot-MVC-Controller" />
+        <module name="Koshik-Sql_practice" />
         <module name="Spring06-JavaCodeConfiguration" />
         <module name="Spring-10-Security-FormAuth" />
+        <module name="JWT" />
         <module name="Spring05-Value" />
         <module name="Spring-09-ORM-OneToMany" />
         <module name="Spring-11-Rest-Template" />
@@ -44,6 +48,11 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="CinemaApp-Practice1" target="11" />
+      <module name="demo" target="11" />
+      <module name="eureyka" target="11" />
+      <module name="JWT" target="11" />
+      <module name="Koshik-Practice-Security" target="11" />
+      <module name="Koshik-Sql_practice" target="11" />
       <module name="orm" target="11" />
       <module name="Spring-01-SpringContainer" target="1.8" />
       <module name="Spring-06-PostConstruct-PreDestroy" target="1.5" />
@@ -60,6 +69,7 @@
       <module name="Spring-11-REST-HTTPverbs-Legacy" target="11" />
       <module name="Spring-11-Rest-Jackson" target="11" />
       <module name="Spring-11-Rest-Lab" target="11" />
+      <module name="Spring-11-Rest-OpenAPI3.0" target="11" />
       <module name="Spring-11-Rest-ResponceEntity" target="11" />
       <module name="Spring-11-Rest-Template" target="11" />
       <module name="Spring05-autowired" target="6" />
@@ -79,6 +89,9 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="CinemaApp-Practice1" options="-parameters" />
+      <module name="JWT" options="-parameters" />
+      <module name="Koshik-Practice-Security" options="-parameters" />
+      <module name="Koshik-Sql_practice" options="-parameters" />
       <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="Spring-08-SpringBoot-Form" options="-parameters" />
       <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" options="-parameters" />
@@ -92,6 +105,7 @@
       <module name="Spring-11-REST-HTTPverbs-Legacy" options="-parameters" />
       <module name="Spring-11-Rest-Jackson" options="-parameters" />
       <module name="Spring-11-Rest-Lab" options="-parameters" />
+      <module name="Spring-11-Rest-OpenAPI3.0" options="-parameters" />
       <module name="Spring-11-Rest-ResponceEntity" options="-parameters" />
       <module name="Spring-11-Rest-Template" options="-parameters" />
       <module name="Spring10-Securiity-DefaulConfiguration" options="-parameters" />
@@ -102,6 +116,8 @@
       <module name="SpringBoot-08-RegistrationForm-Lab" options="-parameters" />
       <module name="SpringBoot-09-ManyToMany-Mapping" options="-parameters" />
       <module name="SpringBoot-09-ORMMapping-oneTo-One" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="eureyka" options="-parameters" />
       <module name="orm" options="-parameters" />
     </option>
   </component>
