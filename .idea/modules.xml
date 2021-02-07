@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CinemaApp-Practice1/CinemaApp-Practice1.iml" filepath="$PROJECT_DIR$/CinemaApp-Practice1/CinemaApp-Practice1.iml" />
       <module fileurl="file://$PROJECT_DIR$/JWT/JWT.iml" filepath="$PROJECT_DIR$/JWT/JWT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jdbc-Security-Practice/Jdbc-Security-Practice.iml" filepath="$PROJECT_DIR$/Jdbc-Security-Practice/Jdbc-Security-Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Koshik-Sql_practice/Koshik-Sql_practice.iml" filepath="$PROJECT_DIR$/Koshik-Sql_practice/Koshik-Sql_practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-LoosselyCoupled/Spring-00-LoosselyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-LoosselyCoupled/Spring-00-LoosselyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
@@ -24,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-Lab/Spring-11-Rest-Lab.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-Lab/Spring-11-Rest-Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-OpenAPI3.0/Spring-11-Rest-OpenAPI3.0.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-OpenAPI3.0/Spring-11-Rest-OpenAPI3.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-ResponceEntity/Spring-11-Rest-ResponceEntity.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-ResponceEntity/Spring-11-Rest-ResponceEntity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-Security-JWT/Spring-11-Rest-Security-JWT.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-Security-JWT/Spring-11-Rest-Security-JWT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-11-Rest-Template/Spring-11-Rest-Template.iml" filepath="$PROJECT_DIR$/Spring-11-Rest-Template/Spring-11-Rest-Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" filepath="$PROJECT_DIR$/Spring05-Value/Spring05-Value.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" filepath="$PROJECT_DIR$/Spring05-autowired/Spring05-autowired.iml" />

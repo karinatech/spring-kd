@@ -15,6 +15,8 @@
         <module name="Spting5-Qualifier" />
         <module name="demo" />
         <module name="Spring-01-SpringContainer" />
+        <module name="Spring-11-Rest-Security-JWT" />
+        <module name="Jdbc-Security-Practice" />
         <module name="Spring-11-Rest-Jackson" />
         <module name="Spring-11-Rest-Lab" />
         <module name="Spring10-Security-CustomConfiguration" />
@@ -50,6 +52,7 @@
       <module name="CinemaApp-Practice1" target="11" />
       <module name="demo" target="11" />
       <module name="eureyka" target="11" />
+      <module name="Jdbc-Security-Practice" target="11" />
       <module name="JWT" target="11" />
       <module name="Koshik-Practice-Security" target="11" />
       <module name="Koshik-Sql_practice" target="11" />
@@ -71,6 +74,7 @@
       <module name="Spring-11-Rest-Lab" target="11" />
       <module name="Spring-11-Rest-OpenAPI3.0" target="11" />
       <module name="Spring-11-Rest-ResponceEntity" target="11" />
+      <module name="Spring-11-Rest-Security-JWT" target="11" />
       <module name="Spring-11-Rest-Template" target="11" />
       <module name="Spring05-autowired" target="6" />
       <module name="Spring05-Value" target="6" />
@@ -90,6 +94,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="CinemaApp-Practice1" options="-parameters" />
       <module name="JWT" options="-parameters" />
+      <module name="Jdbc-Security-Practice" options="-parameters" />
       <module name="Koshik-Practice-Security" options="-parameters" />
       <module name="Koshik-Sql_practice" options="-parameters" />
       <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
@@ -107,6 +112,7 @@
       <module name="Spring-11-Rest-Lab" options="-parameters" />
       <module name="Spring-11-Rest-OpenAPI3.0" options="-parameters" />
       <module name="Spring-11-Rest-ResponceEntity" options="-parameters" />
+      <module name="Spring-11-Rest-Security-JWT" options="-parameters" />
       <module name="Spring-11-Rest-Template" options="-parameters" />
       <module name="Spring10-Securiity-DefaulConfiguration" options="-parameters" />
       <module name="Spring10-Security-HTTPBasic-AuthRolebase" options="-parameters" />
