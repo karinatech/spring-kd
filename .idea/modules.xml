@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/CinemaApp-Practice1/CinemaApp-Practice1.iml" filepath="$PROJECT_DIR$/CinemaApp-Practice1/CinemaApp-Practice1.iml" />
       <module fileurl="file://$PROJECT_DIR$/JWT/JWT.iml" filepath="$PROJECT_DIR$/JWT/JWT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jdbc-Security-Practice/Jdbc-Security-Practice.iml" filepath="$PROJECT_DIR$/Jdbc-Security-Practice/Jdbc-Security-Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jpa-Koshik/Jpa-Koshik.iml" filepath="$PROJECT_DIR$/Jpa-Koshik/Jpa-Koshik.iml" />
       <module fileurl="file://$PROJECT_DIR$/Koshik-Sql_practice/Koshik-Sql_practice.iml" filepath="$PROJECT_DIR$/Koshik-Sql_practice/Koshik-Sql_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LDAP/LDAP.iml" filepath="$PROJECT_DIR$/LDAP/LDAP.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-LoosselyCoupled/Spring-00-LoosselyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-LoosselyCoupled/Spring-00-LoosselyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" filepath="$PROJECT_DIR$/Spring-00-TightlyCoupled/Spring-00-TightlyCoupled.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" filepath="$PROJECT_DIR$/Spring-01-SpringContainer/Spring-01-SpringContainer.iml" />

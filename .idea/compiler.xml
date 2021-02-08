@@ -12,8 +12,10 @@
         <module name="Spring-07-SpringBoot-Demo" />
         <module name="Spring-09-ORM-Mapping-JPQL-NamedQueries" />
         <module name="Spring-09-ORM-Mapping-ManyToOne" />
+        <module name="LDAP" />
         <module name="Spting5-Qualifier" />
         <module name="demo" />
+        <module name="Jpa-Koshik" />
         <module name="Spring-01-SpringContainer" />
         <module name="Spring-11-Rest-Security-JWT" />
         <module name="Jdbc-Security-Practice" />
@@ -53,9 +55,11 @@
       <module name="demo" target="11" />
       <module name="eureyka" target="11" />
       <module name="Jdbc-Security-Practice" target="11" />
+      <module name="Jpa-Koshik" target="11" />
       <module name="JWT" target="11" />
       <module name="Koshik-Practice-Security" target="11" />
       <module name="Koshik-Sql_practice" target="11" />
+      <module name="LDAP" target="11" />
       <module name="orm" target="11" />
       <module name="Spring-01-SpringContainer" target="1.8" />
       <module name="Spring-06-PostConstruct-PreDestroy" target="1.5" />
@@ -95,8 +99,10 @@
       <module name="CinemaApp-Practice1" options="-parameters" />
       <module name="JWT" options="-parameters" />
       <module name="Jdbc-Security-Practice" options="-parameters" />
+      <module name="Jpa-Koshik" options="-parameters" />
       <module name="Koshik-Practice-Security" options="-parameters" />
       <module name="Koshik-Sql_practice" options="-parameters" />
+      <module name="LDAP" options="-parameters" />
       <module name="Spring-07-SpringBoot-Demo" options="-parameters" />
       <module name="Spring-08-SpringBoot-Form" options="-parameters" />
       <module name="Spring-08-SpringBootMVC-Model_View-Thymeleaf" options="-parameters" />

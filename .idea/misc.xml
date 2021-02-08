@@ -40,6 +40,8 @@
         <option value="$PROJECT_DIR$/JWT/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-11-Rest-Security-JWT/pom.xml" />
         <option value="$PROJECT_DIR$/Jdbc-Security-Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/Jpa-Koshik/pom.xml" />
+        <option value="$PROJECT_DIR$/LDAP/pom.xml" />
       </list>
     </option>
   </component>

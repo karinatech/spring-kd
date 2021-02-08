@@ -18,4 +18,6 @@ public class HomeController {
     public String goToAdmin(){
         return ("<h1> Hello Admin!</h1>");
     }
+
+
 }

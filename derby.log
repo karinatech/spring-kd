@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Feb 06 22:36:50 EST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-7a90-4083-0000088d1de0 
+on database directory memory:/Users/karynavladymyrova/Documents/GitHub/spring-kd/44ce19f3-075a-476a-88fd-9ddc27307d33 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
+Loaded from file:/Users/karynavladymyrova/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.1+13-LTS
+user.dir=/Users/karynavladymyrova/Documents/GitHub/spring-kd
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sun Feb 07 12:47:46 EST 2021:
+Shutting down instance a816c00e-0177-7a90-4083-0000088d1de0 on database directory memory:/Users/karynavladymyrova/Documents/GitHub/spring-kd/44ce19f3-075a-476a-88fd-9ddc27307d33 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@512ddf17 
