@@ -16,18 +16,24 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 
 import javax.persistence.SecondaryTables;
 
-@EnableWebSecurity
+
 @Configuration
+@EnableWebSecurity
 public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Override
-@Bean
+    @Bean
     public AuthenticationManager authenticationManager()throws Exception{
         return super.authenticationManagerBean();
     }
-    @Bean
-    public BCryptPasswordEncoder getEncoder(){
-        return (BCryptPasswordEncoder) NoOpPasswordEncoder.getInstance();
-    }
+    private static final String[]permittedUrls={
+            "/authenticate","/create-user","/api/p1/**","/v3/api-docs/**",
+            "/configuration/security",
+            "/swagger-ui.html",
+            "/swagger-ui/**",
+            "/webjars/**"
+
+    };
+
     @Autowired
     private SecurityFilter securityFilter;
 
@@ -35,7 +41,7 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     protected void configure(HttpSecurity http) throws Exception {
         http.csrf().disable()
                 .authorizeRequests()
-                .antMatchers("/authenticate")
+                .antMatchers("/authenticate","/create-user")
                 .permitAll()
                 .anyRequest().authenticated();
         http.addFilterBefore(securityFilter, UsernamePasswordAuthenticationFilter.class);
