@@ -21,6 +21,7 @@
         <module name="Jdbc-Security-Practice" />
         <module name="Spring-11-Rest-Jackson" />
         <module name="Spring-11-Rest-Lab" />
+        <module name="Spring11-AOP" />
         <module name="Spring10-Security-CustomConfiguration" />
         <module name="Spring-08-SpringBoot-Form" />
         <module name="Spring-11-Rest-OpenAPI3.0" />
@@ -29,6 +30,7 @@
         <module name="Koshik-Sql_practice" />
         <module name="Spring06-JavaCodeConfiguration" />
         <module name="Spring-10-Security-FormAuth" />
+        <module name="openapi" />
         <module name="JWT" />
         <module name="Spring05-Value" />
         <module name="Spring-09-ORM-OneToMany" />
@@ -60,6 +62,7 @@
       <module name="Koshik-Practice-Security" target="11" />
       <module name="Koshik-Sql_practice" target="11" />
       <module name="LDAP" target="11" />
+      <module name="openapi" target="11" />
       <module name="orm" target="11" />
       <module name="Spring-01-SpringContainer" target="1.8" />
       <module name="Spring-06-PostConstruct-PreDestroy" target="1.5" />
@@ -88,6 +91,7 @@
       <module name="Spring10-Security-httpBasicDb" target="11" />
       <module name="Spring10-Security-Practice1" target="11" />
       <module name="Spring10-SecurityCustomConfig" target="11" />
+      <module name="Spring11-AOP" target="11" />
       <module name="SpringBoot-08-RegistrationForm-Lab" target="11" />
       <module name="SpringBoot-09-ManyToMany-Mapping" target="11" />
       <module name="SpringBoot-09-ORMMapping-oneTo-One" target="11" />
@@ -125,11 +129,13 @@
       <module name="Spring10-Security-Practice1" options="-parameters" />
       <module name="Spring10-Security-httpBasicDb" options="-parameters" />
       <module name="Spring10-SecurityCustomConfig" options="-parameters" />
+      <module name="Spring11-AOP" options="-parameters" />
       <module name="SpringBoot-08-RegistrationForm-Lab" options="-parameters" />
       <module name="SpringBoot-09-ManyToMany-Mapping" options="-parameters" />
       <module name="SpringBoot-09-ORMMapping-oneTo-One" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="eureyka" options="-parameters" />
+      <module name="openapi" options="-parameters" />
       <module name="orm" options="-parameters" />
     </option>
   </component>

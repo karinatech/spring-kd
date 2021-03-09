@@ -31,9 +31,11 @@
     <file url="file://$PROJECT_DIR$/Spring10-Security-Practice1/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring10-Security-httpBasicDb/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring10-SecurityCustomConfig/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Spring11-AOP/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-08-RegistrationForm-Lab/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-09-ManyToMany-Mapping/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBoot-09-ORMMapping-oneTo-One/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureyka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/openapi/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -42,10 +42,12 @@
         <option value="$PROJECT_DIR$/Jdbc-Security-Practice/pom.xml" />
         <option value="$PROJECT_DIR$/Jpa-Koshik/pom.xml" />
         <option value="$PROJECT_DIR$/LDAP/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring11-AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/openapi/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
