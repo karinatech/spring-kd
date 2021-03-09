@@ -44,6 +44,7 @@
         <option value="$PROJECT_DIR$/LDAP/pom.xml" />
         <option value="$PROJECT_DIR$/Spring11-AOP/pom.xml" />
         <option value="$PROJECT_DIR$/openapi/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-13-UnitTesting-JUnit5/pom.xml" />
       </list>
     </option>
   </component>

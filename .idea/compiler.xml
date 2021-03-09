@@ -17,6 +17,7 @@
         <module name="demo" />
         <module name="Jpa-Koshik" />
         <module name="Spring-01-SpringContainer" />
+        <module name="Spring-13-UnitTesting-JUnit5" />
         <module name="Spring-11-Rest-Security-JWT" />
         <module name="Jdbc-Security-Practice" />
         <module name="Spring-11-Rest-Jackson" />
@@ -83,6 +84,7 @@
       <module name="Spring-11-Rest-ResponceEntity" target="11" />
       <module name="Spring-11-Rest-Security-JWT" target="11" />
       <module name="Spring-11-Rest-Template" target="11" />
+      <module name="Spring-13-UnitTesting-JUnit5" target="1.8" />
       <module name="Spring05-autowired" target="6" />
       <module name="Spring05-Value" target="6" />
       <module name="Spring06-JavaCodeConfiguration" target="6" />
